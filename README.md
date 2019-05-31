@@ -1,4 +1,4 @@
-# Sprout Social Applicant Homework
+# Twitter like Tweet Box
 
 ## Getting Started
 
