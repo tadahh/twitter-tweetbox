@@ -1,20 +1,5 @@
 # Sprout Social Applicant Homework
 
-## Environment Dependencies:
-
-1. **Node v10.12.0**:
-    - This project was set up using node v10.12.0. You should use the same version of node in order to avoid environment issues.
-    - Node can be downloaded and installed from https://nodejs.org/en/
-    - Different node versions can be installed and used on a machine via Node Version Manager (nvm)
-        - Install nvm: https://github.com/creationix/nvm#install-script
-        - Once installed, simply run `nvm use` while in the project. This will use the version of node specified in the `.nvmrc` file.
-        - Additional download/installation of the node version may be required -- nvm will provide installation instructions if necessary.
-2. **Yarn Package Manager**
-    - Because create-react-app uses yarn to manage dependencies (instead of npm), new dependencies should be added using `yarn add`.
-    - Installing Yarn: https://yarnpkg.com/lang/en/docs/install/
-    - To install packages, use `yarn add package`. It's the equivalent of `npm install package` with npm.
-    - To learn about other yarn commands, see https://yarnpkg.com/lang/en/docs/migrating-from-npm/#toc-cli-commands-comparison for more info.
-
 ## Getting Started
 
 -   To install dependencies run `yarn` or `npm install`
