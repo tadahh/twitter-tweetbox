@@ -34,8 +34,4 @@ app.get('/twitter/user/search', (req, res) => {
     }
 });
 
-app.listen(PORT, () => {
-    /* eslint-disable no-console */
-    console.log('listening on port ' + PORT + '...');
-    /* eslint-enable no-console */
-});
+app.listen(process.env.PORT || PORT);
